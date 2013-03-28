@@ -1,0 +1,11 @@
+
+STEP 1:
+              CTV 7060:   min:  67.05 mean:  70.33 max:  81.47 std:   2.41 SR: 2 
+              CTV 5040:   min:  47.87 mean:  54.79 max:  71.51 std:   5.74 SR: 2 
+             Brainstem:   min:   0.36 mean:  29.23 max:  81.16 std:  25.39 SR: 2 
+                 Brain:   min:   0.00 mean:   4.70 max:  82.06 std:  11.95 SR: 2 
+          Optic Nerves:   min:   1.17 mean:   3.43 max:  10.12 std:   2.57 SR: 2 
+                  Eyes:   min:   0.01 mean:   6.48 max:  74.65 std:  13.95 SR: 2 
+              Parotids:   min:  24.83 mean:  57.65 max: 117.87 std:  19.55 SR: 2 
+                  Skin:   min:   0.00 mean:  16.40 max: 132.78 std:  24.10 SR: 2 
+                  Cord:   min:   0.02 mean:  42.74 max:  75.17 std:  26.04 SR: 2 

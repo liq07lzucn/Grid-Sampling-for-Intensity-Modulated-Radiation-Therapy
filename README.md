@@ -1,4 +1,4 @@
-Computational boundary sampling for intensity-modulated sampling is a sampling technique to accelerate the IMRT 
+Computational Boundary Sampling for Intensity Modulated Radiation Therapy is a sampling technique to accelerate the IMRT 
 optimization. The detail explanation of the method can be found in the paper.pdf in the trunk directory. 
 
 Here is the step by step method for running the code.
